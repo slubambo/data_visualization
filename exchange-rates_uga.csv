@@ -1,0 +1,749 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Element Code,Element,ISO Currency Code,Currency,Year Code,Year,Months Code,Months,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,,,,,,#date+year,,,#indicator+type,#indicator+value+num,
+UGA,1987-01-01,1987-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7021,Annual value,,42.841266666700001,X
+UGA,1987-01-01,1987-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7001,January,,42.841266666700001,X
+UGA,1987-02-01,1987-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7002,February,,14.000000000000000,X
+UGA,1987-03-01,1987-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7003,March,,14.000000000000000,X
+UGA,1987-04-01,1987-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7004,April,,14.000000000000000,X
+UGA,1987-05-01,1987-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7005,May,,38.095199999999998,X
+UGA,1987-06-01,1987-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7006,June,,60.000000000000000,X
+UGA,1987-07-01,1987-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7007,July,,60.000000000000000,X
+UGA,1987-08-01,1987-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7008,August,,60.000000000000000,X
+UGA,1987-09-01,1987-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7009,September,,60.000000000000000,X
+UGA,1987-10-01,1987-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7010,October,,60.000000000000000,X
+UGA,1987-11-01,1987-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7011,November,,60.000000000000000,X
+UGA,1987-12-01,1987-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1987,1987,7012,December,,60.000000000000000,X
+UGA,1988-01-01,1988-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7021,Annual value,,106.135833333300000,X
+UGA,1988-01-01,1988-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7001,January,,60.000000000000000,X
+UGA,1988-02-01,1988-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7002,February,,60.000000000000000,X
+UGA,1988-03-01,1988-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7003,March,,60.000000000000000,X
+UGA,1988-04-01,1988-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7004,April,,60.000000000000000,X
+UGA,1988-05-01,1988-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7005,May,,60.000000000000000,X
+UGA,1988-06-01,1988-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7006,June,,60.000000000000000,X
+UGA,1988-07-01,1988-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7007,July,,150.000000000000000,X
+UGA,1988-08-01,1988-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7008,August,,150.000000000000000,X
+UGA,1988-09-01,1988-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7009,September,,150.000000000000000,X
+UGA,1988-10-01,1988-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7010,October,,150.000000000000000,X
+UGA,1988-11-01,1988-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7011,November,,150.000000000000000,X
+UGA,1988-12-01,1988-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1988,1988,7012,December,,163.630000000000000,X
+UGA,1989-01-01,1989-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7021,Annual value,,223.091606308100010,X
+UGA,1989-01-01,1989-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7001,January,,164.989275697100000,X
+UGA,1989-02-01,1989-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7002,February,,165.000000000000000,X
+UGA,1989-03-01,1989-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7003,March,,191.660000000000000,X
+UGA,1989-04-01,1989-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7004,April,,200.000000000000000,X
+UGA,1989-05-01,1989-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7005,May,,200.000000000000000,X
+UGA,1989-06-01,1989-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7006,June,,200.000000000000000,X
+UGA,1989-07-01,1989-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7007,July,,200.000000000000000,X
+UGA,1989-08-01,1989-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7008,August,,200.000000000000000,X
+UGA,1989-09-01,1989-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7009,September,,200.000000000000000,X
+UGA,1989-10-01,1989-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7010,October,,240.000000000000000,X
+UGA,1989-11-01,1989-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7011,November,,345.449999999999990,X
+UGA,1989-12-01,1989-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1989,1989,7012,December,,370.000000000000000,X
+UGA,1990-01-01,1990-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7021,Annual value,,428.854666666699980,X
+UGA,1990-01-01,1990-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7001,January,,374.286000000000000,X
+UGA,1990-02-01,1990-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7002,February,,378.199999999999990,X
+UGA,1990-03-01,1990-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7003,March,,379.000000000000000,X
+UGA,1990-04-01,1990-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7004,April,,379.000000000000000,X
+UGA,1990-05-01,1990-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7005,May,,382.863999999999980,X
+UGA,1990-06-01,1990-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7006,June,,386.569999999999990,X
+UGA,1990-07-01,1990-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7007,July,,440.000000000000000,X
+UGA,1990-08-01,1990-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7008,August,,442.173999999999980,X
+UGA,1990-09-01,1990-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7009,September,,465.000000000000000,X
+UGA,1990-10-01,1990-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7010,October,,480.000000000000000,X
+UGA,1990-11-01,1990-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7011,November,,508.636000000000020,X
+UGA,1990-12-01,1990-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1990,1990,7012,December,,530.525999999999950,X
+UGA,1991-01-01,1991-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7021,Annual value,,734.009916666699950,X
+UGA,1991-01-01,1991-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7001,January,,563.182000000000020,X
+UGA,1991-02-01,1991-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7002,February,,585.000000000000000,X
+UGA,1991-03-01,1991-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7003,March,,608.000000000000000,X
+UGA,1991-04-01,1991-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7004,April,,635.332999999999970,X
+UGA,1991-05-01,1991-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7005,May,,665.159999999999970,X
+UGA,1991-06-01,1991-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7006,June,,688.000000000000000,X
+UGA,1991-07-01,1991-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7007,July,,730.644999999999980,X
+UGA,1991-08-01,1991-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7008,August,,800.000000000000000,X
+UGA,1991-09-01,1991-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7009,September,,846.669999999999960,X
+UGA,1991-10-01,1991-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7010,October,,856.129000000000020,X
+UGA,1991-11-01,1991-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7011,November,,915.000000000000000,X
+UGA,1991-12-01,1991-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1991,1991,7012,December,,915.000000000000000,X
+UGA,1992-01-01,1992-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7021,Annual value,,1133.834333333300000,X
+UGA,1992-01-01,1992-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7001,January,,966.452000000000000,X
+UGA,1992-02-01,1992-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7002,February,,982.240000000000010,X
+UGA,1992-03-01,1992-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7003,March,,1031.329999999999900,X
+UGA,1992-04-01,1992-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7004,April,,1155.550000000000000,X
+UGA,1992-05-01,1992-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7005,May,,1164.609999999999900,X
+UGA,1992-06-01,1992-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7006,June,,1166.170000000000100,X
+UGA,1992-07-01,1992-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7007,July,,1177.880000000000100,X
+UGA,1992-08-01,1992-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7008,August,,1185.290000000000000,X
+UGA,1992-09-01,1992-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7009,September,,1185.150000000000100,X
+UGA,1992-10-01,1992-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7010,October,,1181.069999999999900,X
+UGA,1992-11-01,1992-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7011,November,,1196.339999999999900,X
+UGA,1992-12-01,1992-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1992,1992,7012,December,,1213.930000000000100,X
+UGA,1993-01-01,1993-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7021,Annual value,,1195.016750000000000,X
+UGA,1993-01-01,1993-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7001,January,,1217.119999999999900,X
+UGA,1993-02-01,1993-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7002,February,,1217.089999999999900,X
+UGA,1993-03-01,1993-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7003,March,,1217.520000000000000,X
+UGA,1993-04-01,1993-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7004,April,,1218.089999999999900,X
+UGA,1993-05-01,1993-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7005,May,,1213.275000000000100,X
+UGA,1993-06-01,1993-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7006,June,,1199.085000000000000,X
+UGA,1993-07-01,1993-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7007,July,,1197.528000000000000,X
+UGA,1993-08-01,1993-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7008,August,,1196.655000000000000,X
+UGA,1993-09-01,1993-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7009,September,,1181.988000000000100,X
+UGA,1993-10-01,1993-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7010,October,,1170.837000000000000,X
+UGA,1993-11-01,1993-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7011,November,,1165.010000000000000,X
+UGA,1993-12-01,1993-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1993,1993,7012,December,,1146.002999999999900,X
+UGA,1994-01-01,1994-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7021,Annual value,,979.445416666700000,X
+UGA,1994-01-01,1994-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7001,January,,1112.669000000000100,X
+UGA,1994-02-01,1994-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7002,February,,1047.222000000000000,X
+UGA,1994-03-01,1994-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7003,March,,1079.223000000000000,X
+UGA,1994-04-01,1994-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7004,April,,1007.032000000000000,X
+UGA,1994-05-01,1994-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7005,May,,965.707999999999970,X
+UGA,1994-06-01,1994-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7006,June,,962.590000000000030,X
+UGA,1994-07-01,1994-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7007,July,,967.065000000000050,X
+UGA,1994-08-01,1994-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7008,August,,921.379000000000020,X
+UGA,1994-09-01,1994-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7009,September,,920.792000000000030,X
+UGA,1994-10-01,1994-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7010,October,,919.780999999999950,X
+UGA,1994-11-01,1994-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7011,November,,920.138000000000030,X
+UGA,1994-12-01,1994-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1994,1994,7012,December,,929.745999999999980,X
+UGA,1995-01-01,1995-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7021,Annual value,,968.916666666700050,X
+UGA,1995-01-01,1995-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7001,January,,925.039999999999960,X
+UGA,1995-02-01,1995-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7002,February,,925.528000000000020,X
+UGA,1995-03-01,1995-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7003,March,,927.034999999999970,X
+UGA,1995-04-01,1995-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7004,April,,928.827999999999970,X
+UGA,1995-05-01,1995-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7005,May,,940.176000000000040,X
+UGA,1995-06-01,1995-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7006,June,,964.815000000000050,X
+UGA,1995-07-01,1995-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7007,July,,968.928000000000000,X
+UGA,1995-08-01,1995-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7008,August,,970.027000000000040,X
+UGA,1995-09-01,1995-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7009,September,,977.696000000000030,X
+UGA,1995-10-01,1995-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7010,October,,1043.080999999999900,X
+UGA,1995-11-01,1995-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7011,November,,1032.596000000000000,X
+UGA,1995-12-01,1995-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1995,1995,7012,December,,1023.250000000000000,X
+UGA,1996-01-01,1996-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7021,Annual value,,1046.084750000000000,X
+UGA,1996-01-01,1996-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7001,January,,1026.382000000000100,X
+UGA,1996-02-01,1996-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7002,February,,1022.371000000000000,X
+UGA,1996-03-01,1996-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7003,March,,1016.603000000000000,X
+UGA,1996-04-01,1996-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7004,April,,1013.564000000000000,X
+UGA,1996-05-01,1996-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7005,May,,1018.003000000000000,X
+UGA,1996-06-01,1996-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7006,June,,1041.364000000000000,X
+UGA,1996-07-01,1996-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7007,July,,1055.442000000000000,X
+UGA,1996-08-01,1996-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7008,August,,1067.440000000000100,X
+UGA,1996-09-01,1996-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7009,September,,1074.967000000000100,X
+UGA,1996-10-01,1996-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7010,October,,1105.049000000000000,X
+UGA,1996-11-01,1996-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7011,November,,1081.483999999999900,X
+UGA,1996-12-01,1996-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1996,1996,7012,December,,1030.348000000000000,X
+UGA,1997-01-01,1997-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7021,Annual value,,1083.008666666700000,X
+UGA,1997-01-01,1997-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7001,January,,1044.849999999999900,X
+UGA,1997-02-01,1997-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7002,February,,1033.111000000000100,X
+UGA,1997-03-01,1997-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7003,March,,1024.954000000000000,X
+UGA,1997-04-01,1997-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7004,April,,1046.462000000000000,X
+UGA,1997-05-01,1997-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7005,May,,1065.298000000000000,X
+UGA,1997-06-01,1997-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7006,June,,1067.588000000000000,X
+UGA,1997-07-01,1997-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7007,July,,1068.022999999999900,X
+UGA,1997-08-01,1997-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7008,August,,1098.167999999999900,X
+UGA,1997-09-01,1997-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7009,September,,1117.123000000000000,X
+UGA,1997-10-01,1997-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7010,October,,1140.396000000000000,X
+UGA,1997-11-01,1997-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7011,November,,1147.189000000000100,X
+UGA,1997-12-01,1997-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1997,1997,7012,December,,1142.942000000000000,X
+UGA,1998-01-01,1998-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7021,Annual value,,1240.305833333299900,X
+UGA,1998-01-01,1998-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7001,January,,1148.068000000000000,X
+UGA,1998-02-01,1998-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7002,February,,1152.521999999999900,X
+UGA,1998-03-01,1998-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7003,March,,1152.385000000000000,X
+UGA,1998-04-01,1998-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7004,April,,1174.510000000000000,X
+UGA,1998-05-01,1998-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7005,May,,1223.480000000000000,X
+UGA,1998-06-01,1998-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7006,June,,1231.021999999999900,X
+UGA,1998-07-01,1998-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7007,July,,1235.018000000000000,X
+UGA,1998-08-01,1998-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7008,August,,1244.374000000000000,X
+UGA,1998-09-01,1998-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7009,September,,1284.843000000000100,X
+UGA,1998-10-01,1998-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7010,October,,1314.184999999999900,X
+UGA,1998-11-01,1998-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7011,November,,1353.819999999999900,X
+UGA,1998-12-01,1998-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1998,1998,7012,December,,1369.443000000000000,X
+UGA,1999-01-01,1999-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7021,Annual value,,1454.827166666699900,X
+UGA,1999-01-01,1999-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7001,January,,1369.207000000000100,X
+UGA,1999-02-01,1999-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7002,February,,1377.346000000000000,X
+UGA,1999-03-01,1999-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7003,March,,1381.159000000000100,X
+UGA,1999-04-01,1999-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7004,April,,1449.730000000000000,X
+UGA,1999-05-01,1999-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7005,May,,1518.967000000000100,X
+UGA,1999-06-01,1999-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7006,June,,1447.221000000000000,X
+UGA,1999-07-01,1999-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7007,July,,1454.507000000000100,X
+UGA,1999-08-01,1999-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7008,August,,1454.507000000000100,X
+UGA,1999-09-01,1999-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7009,September,,1491.669000000000100,X
+UGA,1999-10-01,1999-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7010,October,,1507.804000000000100,X
+UGA,1999-11-01,1999-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7011,November,,1503.338000000000000,X
+UGA,1999-12-01,1999-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,1999,1999,7012,December,,1502.471000000000000,X
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7021,Annual value,,1644.475333333299900,X
+UGA,2000-01-01,2000-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7001,January,,1525.751000000000000,X
+UGA,2000-02-01,2000-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7002,February,,1519.425999999999900,X
+UGA,2000-03-01,2000-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7003,March,,1513.680000000000100,X
+UGA,2000-04-01,2000-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7004,April,,1525.862000000000100,X
+UGA,2000-05-01,2000-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7005,May,,1579.667999999999900,X
+UGA,2000-06-01,2000-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7006,June,,1565.566000000000000,X
+UGA,2000-07-01,2000-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7007,July,,1596.415000000000000,X
+UGA,2000-08-01,2000-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7008,August,,1676.300000000000000,X
+UGA,2000-09-01,2000-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7009,September,,1770.507000000000100,X
+UGA,2000-10-01,2000-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7010,October,,1826.594000000000100,X
+UGA,2000-11-01,2000-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7011,November,,1850.261999999999900,X
+UGA,2000-12-01,2000-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2000,2000,7012,December,,1783.673000000000000,X
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7021,Annual value,,1755.658750000000100,X
+UGA,2001-01-01,2001-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7001,January,,1830.440000000000100,X
+UGA,2001-02-01,2001-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7002,February,,1742.970000000000000,X
+UGA,2001-03-01,2001-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7003,March,,1753.790000000000000,X
+UGA,2001-04-01,2001-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7004,April,,1773.819999999999900,X
+UGA,2001-05-01,2001-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7005,May,,1782.684000000000000,X
+UGA,2001-06-01,2001-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7006,June,,1767.637999999999900,X
+UGA,2001-07-01,2001-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7007,July,,1725.742000000000000,X
+UGA,2001-08-01,2001-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7008,August,,1750.609999999999900,X
+UGA,2001-09-01,2001-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7009,September,,1752.896999999999900,X
+UGA,2001-10-01,2001-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7010,October,,1737.686999999999900,X
+UGA,2001-11-01,2001-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7011,November,,1736.214999999999900,X
+UGA,2001-12-01,2001-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2001,2001,7012,December,,1713.412000000000000,X
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7021,Annual value,,1797.550500000000100,X
+UGA,2002-01-01,2002-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7001,January,,1738.740000000000000,X
+UGA,2002-02-01,2002-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7002,February,,1741.438000000000100,X
+UGA,2002-03-01,2002-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7003,March,,1771.032999999999900,X
+UGA,2002-04-01,2002-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7004,April,,1792.190000000000100,X
+UGA,2002-05-01,2002-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7005,May,,1797.592000000000100,X
+UGA,2002-06-01,2002-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7006,June,,1797.173000000000000,X
+UGA,2002-07-01,2002-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7007,July,,1802.832000000000100,X
+UGA,2002-08-01,2002-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7008,August,,1812.644000000000000,X
+UGA,2002-09-01,2002-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7009,September,,1812.440000000000100,X
+UGA,2002-10-01,2002-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7010,October,,1827.198000000000100,X
+UGA,2002-11-01,2002-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7011,November,,1832.319000000000000,X
+UGA,2002-12-01,2002-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2002,2002,7012,December,,1845.007000000000100,X
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7021,Annual value,,1963.720083333300000,X
+UGA,2003-01-01,2003-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7001,January,,1867.685999999999900,X
+UGA,2003-02-01,2003-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7002,February,,1883.782999999999900,X
+UGA,2003-03-01,2003-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7003,March,,1944.444999999999900,X
+UGA,2003-04-01,2003-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7004,April,,1976.530999999999900,X
+UGA,2003-05-01,2003-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7005,May,,1997.849999999999900,X
+UGA,2003-06-01,2003-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7006,June,,1998.231000000000000,X
+UGA,2003-07-01,2003-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7007,July,,1995.277000000000000,X
+UGA,2003-08-01,2003-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7008,August,,1998.491000000000000,X
+UGA,2003-09-01,2003-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7009,September,,1993.969000000000100,X
+UGA,2003-10-01,2003-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7010,October,,1990.729000000000000,X
+UGA,2003-11-01,2003-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7011,November,,1974.488000000000100,X
+UGA,2003-12-01,2003-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2003,2003,7012,December,,1943.161000000000100,X
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7021,Annual value,,1810.304713651499900,X
+UGA,2004-01-01,2004-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7001,January,,1938.159000000000100,X
+UGA,2004-02-01,2004-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7002,February,,1865.064000000000100,X
+UGA,2004-03-01,2004-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7003,March,,1926.650682000000000,X
+UGA,2004-04-01,2004-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7004,April,,1918.781999999999900,X
+UGA,2004-05-01,2004-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7005,May,,1855.535000000000100,X
+UGA,2004-06-01,2004-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7006,June,,1818.664500000000100,X
+UGA,2004-07-01,2004-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7007,July,,1748.261999999999900,X
+UGA,2004-08-01,2004-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7008,August,,1731.523181818200100,X
+UGA,2004-09-01,2004-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7009,September,,1715.555000000000100,X
+UGA,2004-10-01,2004-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7010,October,,1735.436999999999900,X
+UGA,2004-11-01,2004-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7011,November,,1730.885000000000000,X
+UGA,2004-12-01,2004-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2004,2004,7012,December,,1739.139200000000100,X
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7021,Annual value,,1780.540260865200000,X
+UGA,2005-01-01,2005-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7001,January,,1732.005789473699900,X
+UGA,2005-02-01,2005-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7002,February,,1711.066499999999900,X
+UGA,2005-03-01,2005-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7003,March,,1711.230000000000000,X
+UGA,2005-04-01,2005-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7004,April,,1777.680000000000100,X
+UGA,2005-05-01,2005-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7005,May,,1775.623000000000000,X
+UGA,2005-06-01,2005-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7006,June,,1738.318749999999900,X
+UGA,2005-07-01,2005-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7007,July,,1752.122249999999900,X
+UGA,2005-08-01,2005-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7008,August,,1814.859772727300000,X
+UGA,2005-09-01,2005-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7009,September,,1847.606818181800000,X
+UGA,2005-10-01,2005-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7010,October,,1855.365250000000100,X
+UGA,2005-11-01,2005-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7011,November,,1834.470476190500000,X
+UGA,2005-12-01,2005-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2005,2005,7012,December,,1816.134523809500000,X
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7021,Annual value,,1831.451850890900000,X
+UGA,2006-01-01,2006-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7001,January,,1819.121249999999900,X
+UGA,2006-02-01,2006-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7002,February,,1815.841578947400000,X
+UGA,2006-03-01,2006-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7003,March,,1820.943289473699900,X
+UGA,2006-04-01,2006-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7004,April,,1827.481111111100100,X
+UGA,2006-05-01,2006-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7005,May,,1836.341904761900000,X
+UGA,2006-06-01,2006-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7006,June,,1859.949285714300000,X
+UGA,2006-07-01,2006-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7007,July,,1857.716428571400000,X
+UGA,2006-08-01,2006-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7008,August,,1847.739673912999900,X
+UGA,2006-09-01,2006-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7009,September,,1854.676666666699900,X
+UGA,2006-10-01,2006-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7010,October,,1843.426500000000000,X
+UGA,2006-11-01,2006-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7011,November,,1818.851363636400000,X
+UGA,2006-12-01,2006-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2006,2006,7012,December,,1775.333157894700000,X
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7021,Annual value,,1723.491587140400000,X
+UGA,2007-01-01,2007-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7001,January,,1792.278809523800000,X
+UGA,2007-02-01,2007-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7002,February,,1751.682749999999900,X
+UGA,2007-03-01,2007-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7003,March,,1750.676428571400000,X
+UGA,2007-04-01,2007-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7004,April,,1728.890789473699900,X
+UGA,2007-05-01,2007-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7005,May,,1695.152727272700100,X
+UGA,2007-06-01,2007-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7006,June,,1643.573333333300100,X
+UGA,2007-07-01,2007-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7007,July,,1652.869772727300000,X
+UGA,2007-08-01,2007-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7008,August,,1737.430434782600100,X
+UGA,2007-09-01,2007-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7009,September,,1762.830250000000000,X
+UGA,2007-10-01,2007-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7010,October,,1747.171666666700000,X
+UGA,2007-11-01,2007-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7011,November,,1707.728750000000000,X
+UGA,2007-12-01,2007-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2007,2007,7012,December,,1711.613333333300000,X
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7021,Annual value,,1720.443879151100000,X
+UGA,2008-01-01,2008-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7001,January,,1710.585681818200100,X
+UGA,2008-02-01,2008-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7002,February,,1707.829761904800100,X
+UGA,2008-03-01,2008-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7003,March,,1684.255526315799900,X
+UGA,2008-04-01,2008-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7004,April,,1686.683409090900100,X
+UGA,2008-05-01,2008-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7005,May,,1647.680714285700100,X
+UGA,2008-06-01,2008-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7006,June,,1600.739736842100000,X
+UGA,2008-07-01,2008-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7007,July,,1633.940217391299900,X
+UGA,2008-08-01,2008-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7008,August,,1623.619047619000000,X
+UGA,2008-09-01,2008-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7009,September,,1645.010749999999900,X
+UGA,2008-10-01,2008-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7010,October,,1838.662954545400000,X
+UGA,2008-11-01,2008-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7011,November,,1910.130000000000100,X
+UGA,2008-12-01,2008-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2008,2008,7012,December,,1956.188750000000000,X
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7021,Annual value,,2030.488074334200100,X
+UGA,2009-01-01,2009-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7001,January,,1975.970000000000000,X
+UGA,2009-02-01,2009-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7002,February,,1964.832750000000000,X
+UGA,2009-03-01,2009-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7003,March,,2051.545227272699800,X
+UGA,2009-04-01,2009-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7004,April,,2175.610250000000200,X
+UGA,2009-05-01,2009-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7005,May,,2247.682499999999900,X
+UGA,2009-06-01,2009-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7006,June,,2137.179500000000200,X
+UGA,2009-07-01,2009-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7007,July,,2110.766304347800100,X
+UGA,2009-08-01,2009-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7008,August,,2071.668809523800100,X
+UGA,2009-09-01,2009-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7009,September,,1961.903636363600100,X
+UGA,2009-10-01,2009-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7010,October,,1898.282619047600100,X
+UGA,2009-11-01,2009-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7011,November,,1873.778250000000100,X
+UGA,2009-12-01,2009-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2009,2009,7012,December,,1896.637045454600000,X
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7021,Annual value,,2177.557506833580200,X
+UGA,2010-01-01,2010-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7001,January,,1935.626052631580000,X
+UGA,2010-02-01,2010-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7002,February,,1996.536000000000100,X
+UGA,2010-03-01,2010-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7003,March,,2086.366363636359900,X
+UGA,2010-04-01,2010-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7004,April,,2083.003999999999900,X
+UGA,2010-05-01,2010-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7005,May,,2174.568333333330000,X
+UGA,2010-06-01,2010-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7006,June,,2257.436000000000100,X
+UGA,2010-07-01,2010-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7007,July,,2257.286363636360000,X
+UGA,2010-08-01,2010-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7008,August,,2230.940714285709900,X
+UGA,2010-09-01,2010-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7009,September,,2251.303095238100000,X
+UGA,2010-10-01,2010-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7010,October,,2264.820954272549900,X
+UGA,2010-11-01,2010-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7011,November,,2288.872857142860100,X
+UGA,2010-12-01,2010-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2010,2010,7012,December,,2303.929347826090200,X
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7021,Annual value,,2522.802032522639800,X
+UGA,2011-01-01,2011-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7001,January,,2333.135000000000200,X
+UGA,2011-02-01,2011-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7002,February,,2341.927222222219800,X
+UGA,2011-03-01,2011-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7003,March,,2393.313047619049900,X
+UGA,2011-04-01,2011-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7004,April,,2367.589210526320100,X
+UGA,2011-05-01,2011-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7005,May,,2387.684047619050000,X
+UGA,2011-06-01,2011-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7006,June,,2461.038500000000100,X
+UGA,2011-07-01,2011-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7007,July,,2587.228333333329800,X
+UGA,2011-08-01,2011-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7008,August,,2753.232727272729800,X
+UGA,2011-09-01,2011-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7009,September,,2814.018768330790000,X
+UGA,2011-10-01,2011-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7010,October,,2805.365974906690100,X
+UGA,2011-11-01,2011-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7011,November,,2582.177272727270100,X
+UGA,2011-12-01,2011-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2011,2011,7012,December,,2446.914285714290100,X
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7021,Annual value,,2504.563077583280100,X
+UGA,2012-01-01,2012-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7001,January,,2414.193095238099900,X
+UGA,2012-02-01,2012-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7002,February,,2327.969285714290000,X
+UGA,2012-03-01,2012-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7003,March,,2485.018095238100200,X
+UGA,2012-04-01,2012-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7004,April,,2506.212631578950100,X
+UGA,2012-05-01,2012-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7005,May,,2479.052946037370000,X
+UGA,2012-06-01,2012-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7006,June,,2484.357619047620100,X
+UGA,2012-07-01,2012-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7007,July,,2474.180227272730000,X
+UGA,2012-08-01,2012-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7008,August,,2492.038128950459800,X
+UGA,2012-09-01,2012-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7009,September,,2515.877000000000000,X
+UGA,2012-10-01,2012-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7010,October,,2579.428112955490200,X
+UGA,2012-11-01,2012-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7011,November,,2622.952727272730000,X
+UGA,2012-12-01,2012-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2012,2012,7012,December,,2673.477061693549800,X
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7021,Annual value,,2586.889568565609800,X
+UGA,2013-01-01,2013-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7001,January,,2683.789285714290100,X
+UGA,2013-02-01,2013-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7002,February,,2657.549303012519900,X
+UGA,2013-03-01,2013-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7003,March,,2636.891578947369900,X
+UGA,2013-04-01,2013-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7004,April,,2578.011692639810000,X
+UGA,2013-05-01,2013-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7005,May,,2586.113487615460100,X
+UGA,2013-06-01,2013-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7006,June,,2593.081505942650000,X
+UGA,2013-07-01,2013-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7007,July,,2588.900520484960000,X
+UGA,2013-08-01,2013-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7008,August,,2578.871508110250000,X
+UGA,2013-09-01,2013-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7009,September,,2568.864214088369900,X
+UGA,2013-10-01,2013-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7010,October,,2534.391843789980200,X
+UGA,2013-11-01,2013-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7011,November,,2523.272621430860000,X
+UGA,2013-12-01,2013-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2013,2013,7012,December,,2512.937261010839800,X
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7021,Annual value,,2599.788200610670200,X
+UGA,2014-01-01,2014-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7001,January,,2499.903890765329800,X
+UGA,2014-02-01,2014-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7002,February,,2471.961789514480200,X
+UGA,2014-03-01,2014-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7003,March,,2534.215691310730100,X
+UGA,2014-04-01,2014-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7004,April,,2529.787006975169800,X
+UGA,2014-05-01,2014-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7005,May,,2532.385852851010000,X
+UGA,2014-06-01,2014-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7006,June,,2580.862271485870200,X
+UGA,2014-07-01,2014-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7007,July,,2633.515356699460000,X
+UGA,2014-08-01,2014-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7008,August,,2612.504686821249800,X
+UGA,2014-09-01,2014-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7009,September,,2618.796150304579900,X
+UGA,2014-10-01,2014-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7010,October,,2680.508661419669800,X
+UGA,2014-11-01,2014-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7011,November,,2734.222249999999800,X
+UGA,2014-12-01,2014-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2014,2014,7012,December,,2768.794799180519900,X
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7021,Annual value,,3240.645420338260000,X
+UGA,2015-01-01,2015-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7001,January,,2860.711749999999900,X
+UGA,2015-02-01,2015-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7002,February,,2868.847499999999900,X
+UGA,2015-03-01,2015-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7003,March,,2951.736812551550000,X
+UGA,2015-04-01,2015-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7004,April,,2995.578000000000000,X
+UGA,2015-05-01,2015-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7005,May,,3007.603000000000100,X
+UGA,2015-06-01,2015-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7006,June,,3199.902750000000200,X
+UGA,2015-07-01,2015-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7007,July,,3360.094090909090000,X
+UGA,2015-08-01,2015-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7008,August,,3548.251190476190000,X
+UGA,2015-09-01,2015-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7009,September,,3667.504761904760000,X
+UGA,2015-10-01,2015-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7010,October,,3636.024523809519900,X
+UGA,2015-11-01,2015-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7011,November,,3428.998095238090200,X
+UGA,2015-12-01,2015-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2015,2015,7012,December,,3362.492569169960000,X
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7021,Annual value,,3420.098007247359900,X
+UGA,2016-01-01,2016-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7001,January,,3451.208947368420000,X
+UGA,2016-02-01,2016-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7002,February,,3435.113961352660200,X
+UGA,2016-03-01,2016-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7003,March,,3365.496891304349900,X
+UGA,2016-04-01,2016-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7004,April,,3343.572077294690200,X
+UGA,2016-05-01,2016-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7005,May,,3348.919254658379900,X
+UGA,2016-06-01,2016-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7006,June,,3367.992602657000100,X
+UGA,2016-07-01,2016-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7007,July,,3379.293388888890100,X
+UGA,2016-08-01,2016-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7008,August,,3373.534999999999900,X
+UGA,2016-09-01,2016-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7009,September,,3381.406190476190200,X
+UGA,2016-10-01,2016-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7010,October,,3435.848359788360100,X
+UGA,2016-11-01,2016-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7011,November,,3560.623434343429800,X
+UGA,2016-12-01,2016-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2016,2016,7012,December,,3598.165978835979800,X
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7021,Annual value,,3611.224458044609900,X
+UGA,2017-01-01,2017-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7001,January,,3609.477301587300200,X
+UGA,2017-02-01,2017-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7002,February,,3585.349546783630100,X
+UGA,2017-03-01,2017-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7003,March,,3599.014113636360000,X
+UGA,2017-04-01,2017-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7004,April,,3618.697222222219800,X
+UGA,2017-05-01,2017-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7005,May,,3623.606590909089800,X
+UGA,2017-06-01,2017-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7006,June,,3591.098571428569800,X
+UGA,2017-07-01,2017-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7007,July,,3601.530499999999800,X
+UGA,2017-08-01,2017-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7008,August,,3606.031739130430200,X
+UGA,2017-09-01,2017-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7009,September,,3599.866000000000000,X
+UGA,2017-10-01,2017-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7010,October,,3637.909523809520100,X
+UGA,2017-11-01,2017-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7011,November,,3638.850808080810100,X
+UGA,2017-12-01,2017-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2017,2017,7012,December,,3623.261578947369800,X
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7021,Annual value,,3727.068994846119900,X
+UGA,2018-01-01,2018-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7001,January,,3640.053042328040200,X
+UGA,2018-02-01,2018-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7002,February,,3637.562602339180100,X
+UGA,2018-03-01,2018-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7003,March,,3660.117861111110000,X
+UGA,2018-04-01,2018-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7004,April,,3697.242499999999800,X
+UGA,2018-05-01,2018-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7005,May,,3726.843030303030000,X
+UGA,2018-06-01,2018-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7006,June,,3840.476749999999800,X
+UGA,2018-07-01,2018-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7007,July,,3760.443439153440100,X
+UGA,2018-08-01,2018-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7008,August,,3729.532499999999800,X
+UGA,2018-09-01,2018-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7009,September,,3800.679416666670000,X
+UGA,2018-10-01,2018-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7010,October,,3777.977727272730100,X
+UGA,2018-11-01,2018-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7011,November,,3739.772285353540200,X
+UGA,2018-12-01,2018-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2018,2018,7012,December,,3714.126783625729800,X
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7021,Annual value,,3704.049071696810200,X
+UGA,2019-01-01,2019-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7001,January,,3702.434090909090200,X
+UGA,2019-02-01,2019-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7002,February,,3672.893999999999800,X
+UGA,2019-03-01,2019-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7003,March,,3706.191499999999900,X
+UGA,2019-04-01,2019-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7004,April,,3736.975750000000100,X
+UGA,2019-05-01,2019-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7005,May,,3765.629330808079900,X
+UGA,2019-06-01,2019-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7006,June,,3728.988302469139900,X
+UGA,2019-07-01,2019-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7007,July,,3696.486956521740000,X
+UGA,2019-08-01,2019-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7008,August,,3693.733863636360200,X
+UGA,2019-09-01,2019-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7009,September,,3675.496428571430000,X
+UGA,2019-10-01,2019-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7010,October,,3695.836363636360100,X
+UGA,2019-11-01,2019-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7011,November,,3697.442857142859800,X
+UGA,2019-12-01,2019-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2019,2019,7012,December,,3676.479416666670200,X
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7021,Annual value,,3718.248922709240100,X
+UGA,2020-01-01,2020-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7001,January,,3680.792727272730200,X
+UGA,2020-02-01,2020-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7002,February,,3676.846500000000100,X
+UGA,2020-03-01,2020-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7003,March,,3772.907499999999800,X
+UGA,2020-04-01,2020-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7004,April,,3785.746416666670000,X
+UGA,2020-05-01,2020-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7005,May,,3791.460000000000000,X
+UGA,2020-06-01,2020-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7006,June,,3737.944500000000100,X
+UGA,2020-07-01,2020-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7007,July,,3703.537045454550000,X
+UGA,2020-08-01,2020-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7008,August,,3677.527619047620200,X
+UGA,2020-09-01,2020-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7009,September,,3695.087272727269900,X
+UGA,2020-10-01,2020-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7010,October,,3719.916928571430200,X
+UGA,2020-11-01,2020-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7011,November,,3710.677380952380200,X
+UGA,2020-12-01,2020-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2020,2020,7012,December,,3666.543181818180100,X
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7021,Annual value,,3587.051707339080200,X
+UGA,2021-01-01,2021-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7001,January,,3691.563657288999800,X
+UGA,2021-02-01,2021-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7002,February,,3667.315789473680100,X
+UGA,2021-03-01,2021-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7003,March,,3662.869545454550000,X
+UGA,2021-04-01,2021-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7004,April,,3623.302000000000100,X
+UGA,2021-05-01,2021-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7005,May,,3552.786578947369900,X
+UGA,2021-06-01,2021-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7006,June,,3540.352105263160000,X
+UGA,2021-07-01,2021-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7007,July,,3552.305714285710100,X
+UGA,2021-08-01,2021-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7008,August,,3537.036818181819900,X
+UGA,2021-09-01,2021-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7009,September,,3530.631363636360200,X
+UGA,2021-10-01,2021-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7010,October,,3579.942380952380100,X
+UGA,2021-11-01,2021-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7011,November,,3551.522795454549900,X
+UGA,2021-12-01,2021-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2021,2021,7012,December,,3554.991739130439800,X
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7021,Annual value,,3689.817385668619900,X
+UGA,2022-01-01,2022-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7001,January,,3528.833500000000200,X
+UGA,2022-02-01,2022-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7002,February,,3514.506842105260100,X
+UGA,2022-03-01,2022-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7003,March,,3589.842272727270000,X
+UGA,2022-04-01,2022-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7004,April,,3541.456111111110200,X
+UGA,2022-05-01,2022-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7005,May,,3633.068095238099900,X
+UGA,2022-06-01,2022-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7006,June,,3747.380749999999800,X
+UGA,2022-07-01,2022-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7007,July,,3791.591904761910000,X
+UGA,2022-08-01,2022-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7008,August,,3832.449130434779800,X
+UGA,2022-09-01,2022-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7009,September,,3825.326363636359900,X
+UGA,2022-10-01,2022-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7010,October,,3822.267619047620000,X
+UGA,2022-11-01,2022-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7011,November,,3760.228181818180000,X
+UGA,2022-12-01,2022-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2022,2022,7012,December,,3690.857857142860200,X
+UGA,2023-01-01,2023-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2023,2023,7001,January,,3693.610476190479900,X
+UGA,2023-02-01,2023-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2023,2023,7002,February,,3685.715789473680200,X
+UGA,2023-03-01,2023-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2023,2023,7003,March,,3744.514999999999900,X
+UGA,2023-04-01,2023-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2023,2023,7004,April,,3745.819411764709900,X
+UGA,2023-05-01,2023-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGX,Uganda Shilling,2023,2023,7005,May,,3729.554545454550000,X
+UGA,1970-01-01,1970-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7021,Annual value,,7.143000010000000,X
+UGA,1970-01-01,1970-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7001,January,,7.143000010000000,X
+UGA,1970-02-01,1970-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7002,February,,7.143000010000000,X
+UGA,1970-03-01,1970-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7003,March,,7.143000010000000,X
+UGA,1970-04-01,1970-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7004,April,,7.143000010000000,X
+UGA,1970-05-01,1970-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7005,May,,7.143000010000000,X
+UGA,1970-06-01,1970-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7006,June,,7.143000010000000,X
+UGA,1970-07-01,1970-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7007,July,,7.143000010000000,X
+UGA,1970-08-01,1970-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7008,August,,7.143000010000000,X
+UGA,1970-09-01,1970-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7009,September,,7.143000010000000,X
+UGA,1970-10-01,1970-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7010,October,,7.143000010000000,X
+UGA,1970-11-01,1970-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7011,November,,7.143000010000000,X
+UGA,1970-12-01,1970-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1970,1970,7012,December,,7.143000010000000,X
+UGA,1971-01-01,1971-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7021,Annual value,,7.142999590000000,X
+UGA,1971-01-01,1971-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7001,January,,7.142999590000000,X
+UGA,1971-02-01,1971-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7002,February,,7.142999590000000,X
+UGA,1971-03-01,1971-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7003,March,,7.142999590000000,X
+UGA,1971-04-01,1971-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7004,April,,7.142999590000000,X
+UGA,1971-05-01,1971-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7005,May,,7.142999590000000,X
+UGA,1971-06-01,1971-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7006,June,,7.142999590000000,X
+UGA,1971-07-01,1971-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7007,July,,7.142999590000000,X
+UGA,1971-08-01,1971-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7008,August,,7.142999590000000,X
+UGA,1971-09-01,1971-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7009,September,,7.142999590000000,X
+UGA,1971-10-01,1971-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7010,October,,7.142999590000000,X
+UGA,1971-11-01,1971-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7011,November,,7.142999590000000,X
+UGA,1971-12-01,1971-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1971,1971,7012,December,,7.142999590000000,X
+UGA,1972-01-01,1972-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7021,Annual value,,7.143000000000000,X
+UGA,1972-01-01,1972-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7001,January,,7.143000000000000,X
+UGA,1972-02-01,1972-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7002,February,,7.143000000000000,X
+UGA,1972-03-01,1972-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7003,March,,7.143000000000000,X
+UGA,1972-04-01,1972-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7004,April,,7.143000000000000,X
+UGA,1972-05-01,1972-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7005,May,,7.143000000000000,X
+UGA,1972-06-01,1972-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7006,June,,7.143000000000000,X
+UGA,1972-07-01,1972-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7007,July,,7.143000000000000,X
+UGA,1972-08-01,1972-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7008,August,,7.143000000000000,X
+UGA,1972-09-01,1972-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7009,September,,7.143000000000000,X
+UGA,1972-10-01,1972-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7010,October,,7.143000000000000,X
+UGA,1972-11-01,1972-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7011,November,,7.143000000000000,X
+UGA,1972-12-01,1972-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1972,1972,7012,December,,7.143000000000000,X
+UGA,1973-01-01,1973-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7021,Annual value,,7.021450000000000,X
+UGA,1973-01-01,1973-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7001,January,,7.021450000000000,X
+UGA,1973-02-01,1973-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7002,February,,7.021450000000000,X
+UGA,1973-03-01,1973-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7003,March,,7.021450000000000,X
+UGA,1973-04-01,1973-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7004,April,,7.021450000000000,X
+UGA,1973-05-01,1973-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7005,May,,7.021450000000000,X
+UGA,1973-06-01,1973-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7006,June,,7.021450000000000,X
+UGA,1973-07-01,1973-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7007,July,,7.021450000000000,X
+UGA,1973-08-01,1973-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7008,August,,7.021450000000000,X
+UGA,1973-09-01,1973-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7009,September,,7.021450000000000,X
+UGA,1973-10-01,1973-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7010,October,,7.021450000000000,X
+UGA,1973-11-01,1973-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7011,November,,7.021450000000000,X
+UGA,1973-12-01,1973-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1973,1973,7012,December,,7.021450000000000,X
+UGA,1974-01-01,1974-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7021,Annual value,,7.135950000000000,X
+UGA,1974-01-01,1974-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7001,January,,7.135950000000000,X
+UGA,1974-02-01,1974-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7002,February,,7.135950000000000,X
+UGA,1974-03-01,1974-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7003,March,,7.135950000000000,X
+UGA,1974-04-01,1974-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7004,April,,7.135950000000000,X
+UGA,1974-05-01,1974-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7005,May,,7.135950000000000,X
+UGA,1974-06-01,1974-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7006,June,,7.135950000000000,X
+UGA,1974-07-01,1974-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7007,July,,7.135950000000000,X
+UGA,1974-08-01,1974-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7008,August,,7.135950000000000,X
+UGA,1974-09-01,1974-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7009,September,,7.135950000000000,X
+UGA,1974-10-01,1974-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7010,October,,7.135950000000000,X
+UGA,1974-11-01,1974-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7011,November,,7.135950000000000,X
+UGA,1974-12-01,1974-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1974,1974,7012,December,,7.135950000000000,X
+UGA,1975-01-01,1975-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7021,Annual value,,8.735330120000000,X
+UGA,1975-01-01,1975-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7001,January,,8.735330120000000,X
+UGA,1975-02-01,1975-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7002,February,,8.735330120000000,X
+UGA,1975-03-01,1975-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7003,March,,8.735330120000000,X
+UGA,1975-04-01,1975-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7004,April,,8.735330120000000,X
+UGA,1975-05-01,1975-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7005,May,,8.735330120000000,X
+UGA,1975-06-01,1975-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7006,June,,8.735330120000000,X
+UGA,1975-07-01,1975-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7007,July,,8.735330120000000,X
+UGA,1975-08-01,1975-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7008,August,,8.735330120000000,X
+UGA,1975-09-01,1975-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7009,September,,8.735330120000000,X
+UGA,1975-10-01,1975-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7010,October,,8.735330120000000,X
+UGA,1975-11-01,1975-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7011,November,,8.735330120000000,X
+UGA,1975-12-01,1975-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1975,1975,7012,December,,8.735330120000000,X
+UGA,1976-01-01,1976-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7021,Annual value,,9.751608960000000,X
+UGA,1976-01-01,1976-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7001,January,,9.751608960000000,X
+UGA,1976-02-01,1976-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7002,February,,9.751608960000000,X
+UGA,1976-03-01,1976-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7003,March,,9.751608960000000,X
+UGA,1976-04-01,1976-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7004,April,,9.751608960000000,X
+UGA,1976-05-01,1976-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7005,May,,9.751608960000000,X
+UGA,1976-06-01,1976-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7006,June,,9.751608960000000,X
+UGA,1976-07-01,1976-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7007,July,,9.751608960000000,X
+UGA,1976-08-01,1976-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7008,August,,9.751608960000000,X
+UGA,1976-09-01,1976-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7009,September,,9.751608960000000,X
+UGA,1976-10-01,1976-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7010,October,,9.751608960000000,X
+UGA,1976-11-01,1976-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7011,November,,9.751608960000000,X
+UGA,1976-12-01,1976-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1976,1976,7012,December,,9.751608960000000,X
+UGA,1977-01-01,1977-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7021,Annual value,,16.613378300000001,X
+UGA,1977-01-01,1977-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7001,January,,16.613378300000001,X
+UGA,1977-02-01,1977-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7002,February,,16.613378300000001,X
+UGA,1977-03-01,1977-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7003,March,,16.613378300000001,X
+UGA,1977-04-01,1977-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7004,April,,16.613378300000001,X
+UGA,1977-05-01,1977-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7005,May,,16.613378300000001,X
+UGA,1977-06-01,1977-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7006,June,,16.613378300000001,X
+UGA,1977-07-01,1977-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7007,July,,16.613378300000001,X
+UGA,1977-08-01,1977-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7008,August,,16.613378300000001,X
+UGA,1977-09-01,1977-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7009,September,,16.613378300000001,X
+UGA,1977-10-01,1977-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7010,October,,16.613378300000001,X
+UGA,1977-11-01,1977-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7011,November,,16.613378300000001,X
+UGA,1977-12-01,1977-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1977,1977,7012,December,,16.613378300000001,X
+UGA,1978-01-01,1978-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7021,Annual value,,21.391456500000000,X
+UGA,1978-01-01,1978-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7001,January,,21.391456500000000,X
+UGA,1978-02-01,1978-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7002,February,,21.391456500000000,X
+UGA,1978-03-01,1978-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7003,March,,21.391456500000000,X
+UGA,1978-04-01,1978-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7004,April,,21.391456500000000,X
+UGA,1978-05-01,1978-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7005,May,,21.391456500000000,X
+UGA,1978-06-01,1978-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7006,June,,21.391456500000000,X
+UGA,1978-07-01,1978-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7007,July,,21.391456500000000,X
+UGA,1978-08-01,1978-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7008,August,,21.391456500000000,X
+UGA,1978-09-01,1978-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7009,September,,21.391456500000000,X
+UGA,1978-10-01,1978-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7010,October,,21.391456500000000,X
+UGA,1978-11-01,1978-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7011,November,,21.391456500000000,X
+UGA,1978-12-01,1978-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1978,1978,7012,December,,21.391456500000000,X
+UGA,1979-01-01,1979-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7021,Annual value,,33.571033290000003,X
+UGA,1979-01-01,1979-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7001,January,,33.571033290000003,X
+UGA,1979-02-01,1979-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7002,February,,33.571033290000003,X
+UGA,1979-03-01,1979-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7003,March,,33.571033290000003,X
+UGA,1979-04-01,1979-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7004,April,,33.571033290000003,X
+UGA,1979-05-01,1979-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7005,May,,33.571033290000003,X
+UGA,1979-06-01,1979-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7006,June,,33.571033290000003,X
+UGA,1979-07-01,1979-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7007,July,,33.571033290000003,X
+UGA,1979-08-01,1979-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7008,August,,33.571033290000003,X
+UGA,1979-09-01,1979-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7009,September,,33.571033290000003,X
+UGA,1979-10-01,1979-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7010,October,,33.571033290000003,X
+UGA,1979-11-01,1979-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7011,November,,33.571033290000003,X
+UGA,1979-12-01,1979-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1979,1979,7012,December,,33.571033290000003,X
+UGA,1980-01-01,1980-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7021,Annual value,,59.478778570000003,X
+UGA,1980-01-01,1980-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7001,January,,59.478778570000003,X
+UGA,1980-02-01,1980-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7002,February,,59.478778570000003,X
+UGA,1980-03-01,1980-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7003,March,,59.478778570000003,X
+UGA,1980-04-01,1980-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7004,April,,59.478778570000003,X
+UGA,1980-05-01,1980-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7005,May,,59.478778570000003,X
+UGA,1980-06-01,1980-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7006,June,,59.478778570000003,X
+UGA,1980-07-01,1980-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7007,July,,59.478778570000003,X
+UGA,1980-08-01,1980-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7008,August,,59.478778570000003,X
+UGA,1980-09-01,1980-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7009,September,,59.478778570000003,X
+UGA,1980-10-01,1980-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7010,October,,59.478778570000003,X
+UGA,1980-11-01,1980-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7011,November,,59.478778570000003,X
+UGA,1980-12-01,1980-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1980,1980,7012,December,,59.478778570000003,X
+UGA,1981-01-01,1981-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7021,Annual value,,93.839237130000001,X
+UGA,1981-01-01,1981-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7001,January,,93.839237130000001,X
+UGA,1981-02-01,1981-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7002,February,,93.839237130000001,X
+UGA,1981-03-01,1981-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7003,March,,93.839237130000001,X
+UGA,1981-04-01,1981-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7004,April,,93.839237130000001,X
+UGA,1981-05-01,1981-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7005,May,,93.839237130000001,X
+UGA,1981-06-01,1981-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7006,June,,93.839237130000001,X
+UGA,1981-07-01,1981-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7007,July,,93.839237130000001,X
+UGA,1981-08-01,1981-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7008,August,,93.839237130000001,X
+UGA,1981-09-01,1981-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7009,September,,93.839237130000001,X
+UGA,1981-10-01,1981-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7010,October,,93.839237130000001,X
+UGA,1981-11-01,1981-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7011,November,,93.839237130000001,X
+UGA,1981-12-01,1981-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1981,1981,7012,December,,93.839237130000001,X
+UGA,1982-01-01,1982-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7021,Annual value,,118.304587900000000,X
+UGA,1982-01-01,1982-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7001,January,,118.304587900000000,X
+UGA,1982-02-01,1982-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7002,February,,118.304587900000000,X
+UGA,1982-03-01,1982-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7003,March,,118.304587900000000,X
+UGA,1982-04-01,1982-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7004,April,,118.304587900000000,X
+UGA,1982-05-01,1982-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7005,May,,118.304587900000000,X
+UGA,1982-06-01,1982-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7006,June,,118.304587900000000,X
+UGA,1982-07-01,1982-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7007,July,,118.304587900000000,X
+UGA,1982-08-01,1982-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7008,August,,118.304587900000000,X
+UGA,1982-09-01,1982-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7009,September,,118.304587900000000,X
+UGA,1982-10-01,1982-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7010,October,,118.304587900000000,X
+UGA,1982-11-01,1982-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7011,November,,118.304587900000000,X
+UGA,1982-12-01,1982-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1982,1982,7012,December,,118.304587900000000,X
+UGA,1983-01-01,1983-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7021,Annual value,,165.148394059999990,X
+UGA,1983-01-01,1983-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7001,January,,165.148394059999990,X
+UGA,1983-02-01,1983-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7002,February,,165.148394059999990,X
+UGA,1983-03-01,1983-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7003,March,,165.148394059999990,X
+UGA,1983-04-01,1983-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7004,April,,165.148394059999990,X
+UGA,1983-05-01,1983-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7005,May,,165.148394059999990,X
+UGA,1983-06-01,1983-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7006,June,,165.148394059999990,X
+UGA,1983-07-01,1983-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7007,July,,165.148394059999990,X
+UGA,1983-08-01,1983-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7008,August,,165.148394059999990,X
+UGA,1983-09-01,1983-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7009,September,,165.148394059999990,X
+UGA,1983-10-01,1983-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7010,October,,165.148394059999990,X
+UGA,1983-11-01,1983-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7011,November,,165.148394059999990,X
+UGA,1983-12-01,1983-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1983,1983,7012,December,,165.148394059999990,X
+UGA,1984-01-01,1984-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7021,Annual value,,266.726792839999970,X
+UGA,1984-01-01,1984-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7001,January,,266.726792839999970,X
+UGA,1984-02-01,1984-02-29,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7002,February,,266.726792839999970,X
+UGA,1984-03-01,1984-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7003,March,,266.726792839999970,X
+UGA,1984-04-01,1984-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7004,April,,266.726792839999970,X
+UGA,1984-05-01,1984-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7005,May,,266.726792839999970,X
+UGA,1984-06-01,1984-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7006,June,,266.726792839999970,X
+UGA,1984-07-01,1984-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7007,July,,266.726792839999970,X
+UGA,1984-08-01,1984-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7008,August,,266.726792839999970,X
+UGA,1984-09-01,1984-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7009,September,,266.726792839999970,X
+UGA,1984-10-01,1984-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7010,October,,266.726792839999970,X
+UGA,1984-11-01,1984-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7011,November,,266.726792839999970,X
+UGA,1984-12-01,1984-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1984,1984,7012,December,,266.726792839999970,X
+UGA,1985-01-01,1985-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7021,Annual value,,672.019999999999980,X
+UGA,1985-01-01,1985-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7001,January,,672.019999999999980,X
+UGA,1985-02-01,1985-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7002,February,,672.019999999999980,X
+UGA,1985-03-01,1985-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7003,March,,672.019999999999980,X
+UGA,1985-04-01,1985-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7004,April,,672.019999999999980,X
+UGA,1985-05-01,1985-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7005,May,,672.019999999999980,X
+UGA,1985-06-01,1985-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7006,June,,672.019999999999980,X
+UGA,1985-07-01,1985-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7007,July,,672.019999999999980,X
+UGA,1985-08-01,1985-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7008,August,,672.019999999999980,X
+UGA,1985-09-01,1985-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7009,September,,672.019999999999980,X
+UGA,1985-10-01,1985-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7010,October,,672.019999999999980,X
+UGA,1985-11-01,1985-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7011,November,,672.019999999999980,X
+UGA,1985-12-01,1985-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1985,1985,7012,December,,672.019999999999980,X
+UGA,1986-01-01,1986-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7021,Annual value,,1400.000000000000000,X
+UGA,1986-01-01,1986-01-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7001,January,,1400.000000000000000,X
+UGA,1986-02-01,1986-02-28,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7002,February,,1400.000000000000000,X
+UGA,1986-03-01,1986-03-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7003,March,,1400.000000000000000,X
+UGA,1986-04-01,1986-04-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7004,April,,1400.000000000000000,X
+UGA,1986-05-01,1986-05-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7005,May,,1400.000000000000000,X
+UGA,1986-06-01,1986-06-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7006,June,,1400.000000000000000,X
+UGA,1986-07-01,1986-07-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7007,July,,1400.000000000000000,X
+UGA,1986-08-01,1986-08-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7008,August,,1400.000000000000000,X
+UGA,1986-09-01,1986-09-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7009,September,,1400.000000000000000,X
+UGA,1986-10-01,1986-10-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7010,October,,1400.000000000000000,X
+UGA,1986-11-01,1986-11-30,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7011,November,,1400.000000000000000,X
+UGA,1986-12-01,1986-12-31,226,'800,Uganda,LCU,Local currency units per USD,UGS,Uganda Shilling,1986,1986,7012,December,,1400.000000000000000,X
+UGA,1970-01-01,1970-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1970,1970,7021,Annual value,,0.071430000071430,X
+UGA,1971-01-01,1971-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1971,1971,7021,Annual value,,0.071429995890081,X
+UGA,1972-01-01,1972-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1972,1972,7021,Annual value,,0.071429999990000,X
+UGA,1973-01-01,1973-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1973,1973,7021,Annual value,,0.070214499990000,X
+UGA,1974-01-01,1974-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1974,1974,7021,Annual value,,0.071359499990000,X
+UGA,1975-01-01,1975-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1975,1975,7021,Annual value,,0.087353301199159,X
+UGA,1976-01-01,1976-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1976,1976,7021,Annual value,,0.097516089648563,X
+UGA,1977-01-01,1977-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1977,1977,7021,Annual value,,0.166133783023475,X
+UGA,1978-01-01,1978-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1978,1978,7021,Annual value,,0.213914564998020,X
+UGA,1979-01-01,1979-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1979,1979,7021,Annual value,,0.335710332923346,X
+UGA,1980-01-01,1980-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1980,1980,7021,Annual value,,0.594787785667155,X
+UGA,1981-01-01,1981-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1981,1981,7021,Annual value,,0.938392371303223,X
+UGA,1982-01-01,1982-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1982,1982,7021,Annual value,,1.183045878996500,X
+UGA,1983-01-01,1983-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1983,1983,7021,Annual value,,1.651483940631670,X
+UGA,1984-01-01,1984-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1984,1984,7021,Annual value,,2.667267928360590,X
+UGA,1985-01-01,1985-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1985,1985,7021,Annual value,,6.720200000005830,X
+UGA,1986-01-01,1986-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1986,1986,7021,Annual value,,14.000000000000000,X
+UGA,1987-01-01,1987-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1987,1987,7021,Annual value,,42.841266666666698,X
+UGA,1988-01-01,1988-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1988,1988,7021,Annual value,,106.135833333333000,X
+UGA,1989-01-01,1989-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1989,1989,7021,Annual value,,223.091606308090010,X
+UGA,1990-01-01,1990-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1990,1990,7021,Annual value,,428.854666666667010,X
+UGA,1991-01-01,1991-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1991,1991,7021,Annual value,,734.009916666666980,X
+UGA,1992-01-01,1992-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1992,1992,7021,Annual value,,1133.834333333330100,X
+UGA,1993-01-01,1993-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1993,1993,7021,Annual value,,1195.016750000000000,X
+UGA,1994-01-01,1994-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1994,1994,7021,Annual value,,979.445416666667030,X
+UGA,1995-01-01,1995-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1995,1995,7021,Annual value,,968.916666666666970,X
+UGA,1996-01-01,1996-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1996,1996,7021,Annual value,,1046.084750000000000,X
+UGA,1997-01-01,1997-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1997,1997,7021,Annual value,,1083.008666666670000,X
+UGA,1998-01-01,1998-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1998,1998,7021,Annual value,,1240.305833333329900,X
+UGA,1999-01-01,1999-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,1999,1999,7021,Annual value,,1454.827166666670100,X
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2000,2000,7021,Annual value,,1644.475333333329900,X
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2001,2001,7021,Annual value,,1755.658750000000100,X
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2002,2002,7021,Annual value,,1797.550500000000100,X
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2003,2003,7021,Annual value,,1963.720083333330000,X
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2004,2004,7021,Annual value,,1810.304713651509900,X
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2005,2005,7021,Annual value,,1780.665776893939900,X
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2006,2006,7021,Annual value,,1831.453404945860000,X
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2007,2007,7021,Annual value,,1723.491772343000100,X
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2008,2008,7021,Annual value,,1720.443883317770100,X
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2009,2009,7021,Annual value,,2030.488074334180100,X
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2010,2010,7021,Annual value,,2177.557506833580200,X
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2011,2011,7021,Annual value,,2522.746320708070000,X
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2012,2012,7021,Annual value,,2504.563077583280100,X
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2013,2013,7021,Annual value,,2586.889568565609800,X
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2014,2014,7021,Annual value,,2599.788521418619900,X
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2015,2015,7021,Annual value,,3240.645420338260000,X
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2016,2016,7021,Annual value,,3420.098007247359900,X
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2017,2017,7021,Annual value,,3611.224458044609900,X
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2018,2018,7021,Annual value,,3727.071722118850200,X
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2019,2019,7021,Annual value,,3704.049071696810200,X
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2020,2020,7021,Annual value,,3718.248922709240100,X
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2021,2021,7021,Annual value,,3587.051707339080200,X
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,SLC,Standard local currency units per USD,UGX,Uganda Shilling,2022,2022,7021,Annual value,,3689.817386000000200,X
